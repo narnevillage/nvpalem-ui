@@ -1,0 +1,26 @@
+
+Priority - 1
+----------------
+1. Convert the static application as dynamic web app (Spring Boot) - Ramesh
+2. Validate JQuery Controles for Leftside Navigation Menu - Ramesh
+3. Required proper images for the Banners and Logo - Ramesh needs to provide the size.
+4. Finalize Leftside Navigation Labels - Srinu and Ramesh
+5. Finalize Menu Logo - Srinu and Ramesh
+6. Correct all Menu label Images - Ramesh
+7. Find Good Content for the menu options - Srinu
+
+
+Priority - 2
+-----------------
+1. Beautifying the Left Navigation Menu - In co-ordination with Srinu and Ramesh
+
+
+
+
+Priority - 3
+-----------------
+1. Add MogoDB
+2. Add Gradle 
+3. Create REST API specification
+4. Dynamic Content Rendering using REST API's
+5. I18N - Telugu, English
