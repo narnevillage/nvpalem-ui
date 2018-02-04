@@ -1,0 +1,9 @@
+#Commit code to git -
+#git hub cheet sheet:
+https://education.github.com/git-cheat-sheet-education.pdf
+
+#git commands:
+git config --global user.email "srini73edu@gmail.com"
+
+git remote set-url origin https://narnevillage@github.com/narnevillage/nvpalem-ui.git
+git push -u origin master
